@@ -1,9 +1,9 @@
 /**
  * Author: NAME Ian FOehrweiser
  *         EMAIL ifoehrweiser2@huskers.unl.edu
- * Date: 8/23/2022
+ * Date: 8/25/2022
  *
- * A simple hello world program in C
+ * A simple greeting program in C
  *
  */
 #include <stdlib.h>
